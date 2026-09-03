@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Batch Regex Replacer</string>
+    <string name="app_description">An Android app for batch regex text replacement operations on files</string>
+</resources>
