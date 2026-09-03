@@ -1,0 +1,3 @@
+-keep class com.example.batchregexreplacer.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
